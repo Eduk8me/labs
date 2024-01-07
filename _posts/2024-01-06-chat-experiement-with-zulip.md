@@ -1,5 +1,5 @@
 ---
-Title: "Chat experiement with Zulip"
+Title: "Chat experiment with Zulip"
 Author: Ryan
 Date: "2024-01-06 21:41:55"
 Slug: 2024-01-06-chat-experiement-with-zulip
