@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Highlighter Extraordinaire</title>
+    <!-- Bootstrap CSS for making things look pretty -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <style>
+                .highlight {
+                        background-color: yellow;
+                }
+        </style>
+
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center">The Amazing Word Highlighter</h1>
+        <p class="text-center">Enter words and watch them shine in your text!</p>
+
+        <form id="wordHighlighterForm">
+            <div class="form-group">
+                <label for="wordList">List of Words (separated by commas, no spaces please)</label>
+                <input type="text" class="form-control" id="wordList" placeholder="word1,word2,word3">
+            </div>
+            <div class="form-group">
+                <label for="textPassage">Your Text Passage</label>
+                <textarea class="form-control" id="textPassage" rows="4" placeholder="Once upon a time..."></textarea>
+            </div>
+            <button type="button" id="highlightButton" class="btn btn-primary">Highlight Words</button>
+        </form>
+
+        <div id="output" class="mt-4">
+            <h2>Highlighted Text:</h2>
+            <div id="highlightedText" style="white-space: pre-wrap;"></div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery for making things interactive -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
