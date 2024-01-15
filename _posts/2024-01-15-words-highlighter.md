@@ -12,5 +12,5 @@ featured_image: ""
 images: [ "" ]
 ---
 
-Here's a little app I whipped up with the help of ChatGPT. You can add a list of words and a passage, and the app will highlight those words in the passage. There isn't any error checking, so it will break if you try to do weird stuff with it.
+Here's [a little app](https://labs.eduk8.me/words/) I whipped up with the help of ChatGPT. You can add a list of words and a passage, and the app will highlight those words in the passage. There isn't any error checking, so it will break if you try to do weird stuff with it.
 
