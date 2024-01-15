@@ -15,7 +15,7 @@ Here is my collection of Javascript bookmarklets. Sometimes they are better than
 # Using the bookmarklets
 To install the bookmarklet, drag the link to your bookmarks bar (if your bookmarks bar isn't showing, you'll want to turn it on first). After the bookmarklet is on your bookmarks bar, you can use it by clicking on it.
 
-![Screen capture dragging bookmarklet to bookmark bar](/assets/2023-03-11AddingBookmarklet.gif)
+![Screen capture dragging bookmarklet to bookmark bar](/docs/assets/2023-03-11AddingBookmarklet.gif)
 
 # Capturing the page title and address of a website
 
