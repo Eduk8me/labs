@@ -16,3 +16,8 @@ Bookmarklets are bookmarks that run Javascript code. They can be used to replace
 * QR Code Creator
 * Copy Title and URL 
 * Archive.is
+
+You can [see all of the bookmarklets here](/bookmarklets/)!
+
+——-
+
